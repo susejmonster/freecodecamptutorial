@@ -1,6 +1,7 @@
 {
     "name": "fcc-learn-npm-package-json",
     "author": "iraban gupta basu",
+    "description": "most awesome shit ever",
     "dependencies": {
         "express": "^4.14.0",
 
