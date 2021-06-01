@@ -1,8 +1,9 @@
 {
     "name": "fcc-learn-npm-package-json",
+    "author": "iraban gupta basu",
     "dependencies": {
         "express": "^4.14.0",
-        "author": "iraban gupta basu"
+
     },
     "main": "server.js",
     "scripts": {
